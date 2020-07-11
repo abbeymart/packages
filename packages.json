@@ -18670,5 +18670,21 @@
     "description": "Library for attaching files to emails.",
     "license": "MIT",
     "web": "https://github.com/enthus1ast/nimMime"
+  },
+  {
+    "name": "mccache",
+    "url": "https://github.com/abbeymart/mccache",
+    "method": "git",
+    "tags": [
+      "in-memory",
+      "cache",
+      "for",
+      "data",
+      "query",
+      "transactions"
+    ],
+    "description": "mccache package: in-memory caching",
+    "license": "MIT",
+    "web": "https://github.com/abbeymart/mccache"
   }
 ]
